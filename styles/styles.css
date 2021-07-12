@@ -198,6 +198,11 @@ ul.pestañas-productos li a:active{
     color: orange;
 }
 
+
+
+
+
+
 /*Formato pestaña productos color*/
 .pestañas-productos a{
     text-decoration: none;
@@ -230,6 +235,7 @@ subrayado*/
 
 .mini-section:hover{
     background-color:rgb(191, 235, 191);
+    transform: scale(1.1);
 }
 
 /*formato del titulo del producto*/
