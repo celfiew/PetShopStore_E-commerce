@@ -1,4 +1,4 @@
-# petshop-pseudo
+# Petshop-pseudo :cat: :dog:
 
 
 >The PetShop page here --> [GitHub Pages](https://celfiew.github.io/PetshopStore_E-commerce/).
